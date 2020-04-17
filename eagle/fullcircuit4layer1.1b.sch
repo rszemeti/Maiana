@@ -6915,7 +6915,7 @@ MMBT4403 - 40V 600mA SOT-23 (TRANS-09245)</description>
 </net>
 <net name="CTX" class="0">
 <segment>
-<label x="278.9555" y="220.853" size="1.778" layer="95" rot="R180" xref="yes"/>
+<label x="277.1775" y="221.615" size="1.778" layer="95" rot="R180" xref="yes"/>
 <pinref part="R10" gate="G$1" pin="1"/>
 <wire x1="292.1" y1="220.98" x2="279.4" y2="220.98" width="0.1524" layer="91"/>
 </segment>
